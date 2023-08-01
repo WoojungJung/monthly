@@ -31,24 +31,35 @@
 
 
 ## 📌 내가 맡은 기능
-#### 마이 페이지 <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%EB%A7%88%EC%9D%B4-%ED%8E%98%EC%9D%B4%EC%A7%80" >상세보기 - WIKI 이동</a>
-- 구독 관리(내부 구독, 외부 구독)
-- 내부구독 삭제
-- 외부 구독 추가 삭제
-- 회원 정보 수정 페이지 이동
+#### 판매자 로그인
+- 판매자, 관리자 탭으로 로그인 경로 처리
+- 로그인 interceptor 
 
-#### 결제 페이지 - 정기결제 <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%EA%B2%B0%EC%A0%9C-%ED%8E%98%EC%9D%B4%EC%A7%80" >상세보기 - WIKI 이동</a>
-- 새로운 배송지 등록
-- kakao pay 정기 결제 api 실행 후 결제
+#### 주문, 배송 관리
+- 주문상태, 주문번호, 날짜 조건 검색
+- 주문, 배송 정보 변경 비동기 저장
+- 검색 후 리스트 페이징 처리
 
-#### 회원정보 수정 <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95" >상세보기 - WIKI 이동</a>
-- 회원 정보 변경(비밀번호, 배송지)
-- 회원 탈퇴
+#### 브랜드 관리  <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95" >상세보기 - WIKI 이동</a>
+- 브랜드 정보 등록 및 수정
+- 대표 이미지 파일 처리
 
-#### 제품 상세 페이지 <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%EC%A0%9C%ED%92%88-%EC%83%81%EC%84%B8-%ED%8E%98%EC%9D%B4%EC%A7%80" >상세보기 - WIKI 이동</a>
-- 제품 정보 설정(수량, 배송 날짜)
-- 제품 상세보기(더보기, 감추기 버튼)
-- 상품 이미지
-- 댓글(등록,수정,삭제,페이징)
+#### 판매자 정보 관리
+- 판매자 정보 수정, 비동기 저장
+- Daum 주소 api 활용
 
+#### 구독서비스 제품 등록
+- 새로운 제품 등록
+- 대표 이미지 및 상세 이미지 파일 저장 처리, 이미지 미리보기
+- 썸머노트 api로 내용 등록 처리
+
+#### 구독서비스 제품 관리
+- 제품 리스트, 제품 조건 검색, 리스트 페이징 처리
+- 제품 판매 상태 변경 비동기 저장
+- 제품상세페이지로 이동
+
+#### 구독서비스 제품 수정
+- 제품 상세 정보 수정
+- 이미지 파일 저장 처리, 썸머노트 api 이용
+  
 ### 내가 맡은 페이지 이미지 모음 <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%EB%82%B4%EA%B0%80-%EB%A7%A1%EC%9D%80-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%AA%A8%EC%9D%8C" >상세보기 - WIKI 이동</a>
