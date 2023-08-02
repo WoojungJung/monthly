@@ -35,7 +35,7 @@
 - 아이디 중복 검사
 - 아이디, 비밀번호, 이메일 정규표현식
 - 주소검색 api  
-#### 판매자 로그인  <a href="https://github.com/WoojungJung/monthly/wiki/%ED%8C%90%EB%A7%A4%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8" >상세보기 - WIKI 이동</a>
+#### 판매자 로그인  <a href="https://github.com/WoojungJung/monthly/wiki/%F0%9F%99%8E%E2%80%8D%E2%99%80%EF%B8%8F%F0%9F%99%8E%E2%80%8D%E2%99%82%EF%B8%8F%ED%8C%90%EB%A7%A4%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8" >상세보기 - WIKI 이동</a>
 - 판매자, 관리자 탭으로 로그인 경로 처리
 - 로그인 Interceptor 
 
