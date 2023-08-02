@@ -31,7 +31,7 @@
 
 
 ## 📌 내가 맡은 기능
-#### 판매자 신청  <a href="https://github.com/WoojungJung/monthly/wiki/%ED%8C%90%EB%A7%A4%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8" >상세보기 - WIKI 이동</a>
+#### 판매자 신청  <a href="https://github.com/WoojungJung/monthly/wiki/%F0%9F%93%A9-%ED%8C%90%EB%A7%A4%EC%9E%90-%EC%8B%A0%EC%B2%AD" >상세보기 - WIKI 이동</a>
 - 아이디 중복 검사
 - 아이디, 비밀번호, 이메일 정규표현식
 - 주소검색 api  
