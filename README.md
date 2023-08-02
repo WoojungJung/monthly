@@ -39,7 +39,7 @@
 - 판매자, 관리자 탭으로 로그인 경로 처리
 - 로그인 Interceptor 
 
-#### 주문, 배송 관리  <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95" >상세보기 - WIKI 이동</a>
+#### 판매자 메인 : 주문, 배송 관리  <a href="https://github.com/WoojungJung/monthly/wiki/%F0%9F%93%8B-%EB%A9%94%EC%9D%B8-:-%EC%A3%BC%EB%AC%B8%EB%B0%B0%EC%86%A1%EA%B4%80%EB%A6%AC" >상세보기 - WIKI 이동</a>
 - 주문상태, 주문번호, 날짜 조건 검색
 - 주문, 배송 정보 변경 비동기 저장
 - 검색 후 리스트 페이징 처리
