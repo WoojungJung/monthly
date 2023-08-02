@@ -27,7 +27,7 @@
 - **ORM** : Mybatis
 
 ### 🧾MONTHLY 포트폴리오(PDF)
-[montly포트폴리오용.pdf](https://github.com/dafssdf/Spring_Portfoilo/files/12191002/montly.pdf)
+[monthly포트폴리오용.pdf](https://github.com/WoojungJung/monthly/files/12236039/monthly.pdf)
 
 
 ## 📌 내가 맡은 기능
