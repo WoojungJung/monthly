@@ -44,12 +44,10 @@
 - 주문, 배송 정보 변경 비동기 저장
 - 검색 후 리스트 페이징 처리
 
-#### 브랜드 관리  <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95" >상세보기 - WIKI 이동</a>
+#### 브랜드 & 판매자 정보 관리  <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95" >상세보기 - WIKI 이동</a>
 - 브랜드 정보 등록 및 수정
 - 대표 이미지 파일 처리
-
-#### 판매자 정보 관리  <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95" >상세보기 - WIKI 이동</a>
-- 판매자 정보 수정, 비동기 저장
+- 판매자 정보 비동기 조회,수정, 저장
 - Daum 주소 api 활용
 
 #### 제품 등록  <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95" >상세보기 - WIKI 이동</a>
@@ -63,7 +61,6 @@
 - 제품 상세 페이지로 이동
 
 #### 제품 수정  <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95" >상세보기 - WIKI 이동</a>
-- 제품 상세 정보 수정
+- 제품 상세 정보 조회, 수정, 저장
 - 이미지 파일 저장 처리, 썸머노트 api 이용
-  
-### 내가 맡은 페이지 이미지 모음 <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%EB%82%B4%EA%B0%80-%EB%A7%A1%EC%9D%80-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%AA%A8%EC%9D%8C" >상세보기 - WIKI 이동</a>
+
