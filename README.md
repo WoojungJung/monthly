@@ -31,7 +31,7 @@
 
 
 ## 📌 내가 맡은 기능
-#### 판매자 로그인  <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95" >상세보기 - WIKI 이동</a>
+#### 판매자 로그인  <a href="https://github.com/WoojungJung/monthly/wiki/%ED%8C%90%EB%A7%A4%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8" >상세보기 - WIKI 이동</a>
 - 판매자, 관리자 탭으로 로그인 경로 처리
 - 로그인 Interceptor 
 
