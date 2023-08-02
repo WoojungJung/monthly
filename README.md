@@ -21,7 +21,7 @@
 ### ⚙️ 개발 환경
 - `Java 11`
 - `JDK 1.8.0`
-- **IDE** : STS 3.9
+- **IDE** : IntelliJ 2021.x
 - **Framework** : Springboot(2.x)
 - **Database** : Oracle DB(11xe)
 - **ORM** : Mybatis
@@ -31,11 +31,11 @@
 
 
 ## 📌 내가 맡은 기능
-#### 판매자 로그인
+#### 판매자 로그인  <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95" >상세보기 - WIKI 이동</a>
 - 판매자, 관리자 탭으로 로그인 경로 처리
 - 로그인 interceptor 
 
-#### 주문, 배송 관리
+#### 주문, 배송 관리  <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95" >상세보기 - WIKI 이동</a>
 - 주문상태, 주문번호, 날짜 조건 검색
 - 주문, 배송 정보 변경 비동기 저장
 - 검색 후 리스트 페이징 처리
@@ -44,21 +44,21 @@
 - 브랜드 정보 등록 및 수정
 - 대표 이미지 파일 처리
 
-#### 판매자 정보 관리
+#### 판매자 정보 관리  <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95" >상세보기 - WIKI 이동</a>
 - 판매자 정보 수정, 비동기 저장
 - Daum 주소 api 활용
 
-#### 구독서비스 제품 등록
+#### 구독서비스 제품 등록  <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95" >상세보기 - WIKI 이동</a>
 - 새로운 제품 등록
 - 대표 이미지 및 상세 이미지 파일 저장 처리, 이미지 미리보기
 - 썸머노트 api로 내용 등록 처리
 
-#### 구독서비스 제품 관리
+#### 구독서비스 제품 관리  <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95" >상세보기 - WIKI 이동</a>
 - 제품 리스트, 제품 조건 검색, 리스트 페이징 처리
 - 제품 판매 상태 변경 비동기 저장
 - 제품상세페이지로 이동
 
-#### 구독서비스 제품 수정
+#### 구독서비스 제품 수정  <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95" >상세보기 - WIKI 이동</a>
 - 제품 상세 정보 수정
 - 이미지 파일 저장 처리, 썸머노트 api 이용
   
