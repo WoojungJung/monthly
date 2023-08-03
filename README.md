@@ -44,23 +44,41 @@
 - 주문, 배송 정보 변경 비동기 저장
 - 검색 후 리스트 페이징 처리
 
-#### 브랜드 & 판매자 정보 관리  <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95" >상세보기 - WIKI 이동</a>
+#### 브랜드 & 판매자 정보 관리  <a href="https://github.com/WoojungJung/monthly/wiki/%F0%9F%95%8D-%EB%B8%8C%EB%9E%9C%EB%93%9C-&-%ED%8C%90%EB%A7%A4%EC%9E%90-%EC%A0%95%EB%B3%B4-%EA%B4%80%EB%A6%AC" >상세보기 - WIKI 이동</a>
 - 브랜드 정보 등록 및 수정
 - 대표 이미지 파일 처리
 - 판매자 정보 비동기 조회,수정, 저장
 - Daum 주소 api 활용
 
-#### 제품 등록  <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95" >상세보기 - WIKI 이동</a>
+#### 제품 등록  <a href="https://github.com/WoojungJung/monthly/wiki/%E2%9C%8F-%EA%B5%AC%EB%8F%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A0%9C%ED%92%88-%EB%93%B1%EB%A1%9D" >상세보기 - WIKI 이동</a>
 - 새로운 구독 서비스 제품 등록
 - 대표 이미지 및 상세 이미지 파일 저장 처리, 이미지 미리보기
 - 썸머노트 api로 내용 등록 처리
 
-#### 제품 관리  <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95" >상세보기 - WIKI 이동</a>
+#### 제품 관리  <a href="https://github.com/WoojungJung/monthly/wiki/%F0%9F%8E%81-%EC%A0%9C%ED%92%88-%EB%A6%AC%EC%8A%A4%ED%8A%B8-:-%EC%A0%9C%ED%92%88-%EA%B2%80%EC%83%89,-%ED%8C%90%EB%A7%A4%EC%83%81%ED%83%9C-%EB%B3%80%EA%B2%BD" >상세보기 - WIKI 이동</a>
 - 제품 리스트, 제품 조건 검색, 리스트 페이징 처리
 - 제품 판매 상태 변경 비동기 저장
 - 제품 상세 페이지로 이동
 
-#### 제품 수정  <a href="https://github.com/dafssdf/Spring_Portfoilo/wiki/%ED%9A%8C%EC%9B%90%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95" >상세보기 - WIKI 이동</a>
+#### 제품 수정  <a href="https://github.com/WoojungJung/monthly/wiki/%F0%9F%93%9D-%EC%A0%9C%ED%92%88-%EC%83%81%EC%84%B8-%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95" >상세보기 - WIKI 이동</a>
 - 제품 상세 정보 조회, 수정, 저장
 - 이미지 파일 저장 처리, 썸머노트 api 이용
+
+### 주요 서비스 화면
+- 메인페이지
+![monthly_main편집본](https://github.com/WoojungJung/monthly/assets/126428419/df1431ab-2714-41c5-8243-020bca55c2e0)
+- 제품상세페이지
+![monthly_product편집본](https://github.com/WoojungJung/monthly/assets/126428419/b7ec8dbc-c4f0-4b0b-bc3d-9e4c5f016d93)
+- 마이페이지
+![monthly_mypage](https://github.com/WoojungJung/monthly/assets/126428419/d5dcc106-fd3a-44e1-9d60-5538c0ba457f)
+- 판매자 주문관리
+![주문관리](https://github.com/WoojungJung/monthly/assets/126428419/0eae74c6-ba4f-4081-8e67-bcdf10688f59)
+- 판매자 브랜드관리
+![브랜드관리편집본](https://github.com/WoojungJung/monthly/assets/126428419/7855c9c2-404e-4539-9cac-750efdf3b553)
+- 제품관리
+![제품관리](https://github.com/WoojungJung/monthly/assets/126428419/d8924865-434d-424e-9e72-3529c8be3c14)
+- 제품등록 및 수정
+![상품수정](https://github.com/WoojungJung/monthly/assets/126428419/ed8f0bd1-9c2f-423a-b11f-be7237ce64bd)
+
+
 
